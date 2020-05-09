@@ -1,0 +1,15 @@
+Some useful links/repos:
+1. Precipitation Nowcasting written in Pytorch:
+https://github.com/Hzzone/Precipitation-Nowcasting
+2. Rainy motion for radar-based precipitation nowcasting based on optical flow techniques
+https://github.com/hydrogo/rainymotion
+3. ConvLSTM/GRU for precipitation nowcasting, written in Tensorflow:
+https://github.com/giserh/ConvLSTM-2
+4. Code for Dynamic Filter Network, written in Theano:
+https://github.com/dbbert/dfn
+
+Useful papers:
+1. A Method of Radar Echo Extrapolation Based on TREC and Barnes Filter
+https://journals.ametsoc.org/doi/pdf/10.1175/JTECH-D-18-0194.1
+2. Operational Application of Optical Flow Techniques to Radar-Based Rainfall Nowcasting
+https://www.mdpi.com/2073-4433/8/3/48/htm
